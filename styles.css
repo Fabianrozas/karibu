@@ -516,6 +516,13 @@ a:hover {
     height: auto;
   }
 
+  .datos-texto {
+  margin: 22px;
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+}
+
   .datos-eventos {
   text-align: center;
   padding: 55px;
@@ -540,6 +547,20 @@ a:hover {
     grid-template-columns: none; 
     gap: 60px;
     margin-bottom: 100px;
+}
+
+.novia {
+  width: 90%;
+  max-width: 1200px;
+  padding: 18px;
+  margin: auto;
+  text-align: right;
+  height: 500px;
+  background-image: url(img/novia-karibu-2.jpg);
+  background-size: cover;
+  background-position: right;
+  border-radius: 10px;
+  align-content: flex-end;
 }
 
   /* FOOTER */
