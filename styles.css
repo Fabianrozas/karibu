@@ -554,7 +554,9 @@ a:hover {
   }
 
   footer .footer-columns {
-    flex-direction: column;
-    gap: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
   }
 }
