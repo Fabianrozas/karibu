@@ -29,7 +29,6 @@ h4 {
   }
 }
 
-
 body {
   background-color: #f5efe6;
   color: #333;
@@ -349,11 +348,6 @@ a:hover {
   color: #fff;
 }
 
-.datos-overlay {
-  position: absolute;
-  inset: 0;
-}
-
 .datos-content {
     width: 90%;
     max-width: 1200px;
@@ -369,12 +363,10 @@ a:hover {
 }
 
   .datos-eventos {
-    width: 100%;
     text-align: center;
     padding: 55px;
     display: flex;
     gap: 36px;
-    justify-content: center;
 }
 
 .eventos {
@@ -453,7 +445,7 @@ a:hover {
   inset: 0;
   background-image: url("img/banner-01.jpg");
   background-size: cover;
-  transform: scaleX(1);
+  transform: scaleX(-1);
   background-repeat: repeat;
   background-attachment: fixed; /* parallax suave */
   z-index: 1;
@@ -554,9 +546,14 @@ a:hover {
   }
 
   footer .footer-columns {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-direction: column;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+    .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
   }
 }
