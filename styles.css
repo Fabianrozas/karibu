@@ -449,9 +449,9 @@ a:hover {
   position: absolute;
   inset: 0;
   background-image: url("img/banner-01.jpg"); /* reemplazar */
-  background-size:auto;
-  background-position: cover;
-  background-repeat: no-repeat;
+  background-size: cover;
+  transform: scaleX(1);
+  background-repeat: repeat;
   background-attachment: fixed; /* parallax suave */
   z-index: 1;
 }
