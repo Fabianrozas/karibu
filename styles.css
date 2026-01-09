@@ -446,9 +446,11 @@ a:hover {
   }
   
 .hero-banner {
+  height: 60vh;
+  min-height: 300px;
   position: absolute;
   inset: 0;
-  background-image: url("img/banner-01.jpg"); /* reemplazar */
+  background-image: url("img/banner-01.jpg");
   background-size: cover;
   transform: scaleX(1);
   background-repeat: repeat;
