@@ -467,9 +467,12 @@ a:hover {
 
   /* HEADER */
   header {
-    flex-direction: column;
-    align-items: center;
-    padding: 16px 0;
+    position: relative;
+    background-image: url(img/textura-cafe.jpg);
+    /* background-size: auto; */
+    /* background-position: center; */
+    /* padding: 15px 0; */
+    /* font-size: large; */
   }
 
   header .logo {
