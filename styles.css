@@ -3,7 +3,6 @@
   padding: 0;
   box-sizing: border-box;
   font-family: Arial, sans-serif;
-  border: 1px solid red;
 }
 
 h2 {
@@ -42,9 +41,9 @@ body {
 }
 
 .container-familia {
-  width: 90%;
-  max-width: 1200px;
-  margin: 15px 5px 0 5px;
+    /* width: 90%; */
+    max-width: 1200px;
+    margin: 15px 0;
 }
 
 /* HEADER */
