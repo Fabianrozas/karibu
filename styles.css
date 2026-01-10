@@ -437,6 +437,13 @@ a:hover {
     width: 100%;
     padding: 0 20px;
   }
+
+.logo {
+  /* margin: 0px 55px; */
+  height: 85px;
+  display: flex;
+  justify-content: center;
+}
   
 .hero-banner {
   /* height: 60vh; */
