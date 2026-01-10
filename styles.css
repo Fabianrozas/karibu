@@ -75,10 +75,10 @@ body {
 }
 
 .logo {
-    /* margin: 0px 55px; */
+    margin: 0px 55px;
     height: 85px;
     display: flex;
-    /* justify-content: center;  */
+    justify-content: center;
 }
 
 .nav-right {
@@ -439,11 +439,10 @@ a:hover {
   }
 
 .logo {
-  /* margin: 0px 55px;
+  margin: 0px 55px;
   height: 85px;
   display: flex;
   justify-content: center;
-} */
   
 .hero-banner {
   /* height: 60vh; */
