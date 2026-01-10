@@ -44,7 +44,7 @@ body {
 .container-familia {
   width: 90%;
   max-width: 1200px;
-  margin: 15px 5px 0 5px;
+  margin: 15px 0;
 }
 
 /* HEADER */
@@ -75,10 +75,10 @@ body {
 }
 
 .logo {
-margin: 0px 55px;
+    /* margin: 0px 55px; */
     height: 85px;
     display: flex;
-    justify-content: center;
+    /* justify-content: center;  */
 }
 
 .nav-right {
@@ -439,11 +439,11 @@ a:hover {
   }
 
 .logo {
-  /* margin: 0px 55px; */
+  /* margin: 0px 55px;
   height: 85px;
   display: flex;
   justify-content: center;
-}
+} */
   
 .hero-banner {
   /* height: 60vh; */
@@ -481,9 +481,9 @@ a:hover {
     align-items: center;
 }  
 
-  header .logo {
+  /* header .logo {
     margin-bottom: 12px;
-  }
+  } */
 
   header nav {
     flex-direction: column;
