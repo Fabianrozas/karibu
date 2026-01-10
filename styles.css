@@ -75,10 +75,11 @@ body {
 }
 
 .logo {
+    width: 100%;
 /*  margin: 0px 55px; */
     height: 85px;
     display: flex;
-/*  justify-content: center;  */
+    justify-content: center;
 }
 
 .nav-right {
