@@ -14,7 +14,7 @@ h2 {
 
 h4 {
   color: #f2b84b;
-  font-family: "Courier Prime", monospace;
+  font-family: "Open Sans", sans-serif;
   font-weight: 700;
   font-style: normal;
 }
@@ -209,13 +209,12 @@ a:hover {
   font-size: 56px;
   letter-spacing: 3px;
   line-height: 54px;
-  text-transform: uppercase;
 }
 
 
 .hero-text p {
   margin: 18px 0;
-  font-family: "Courier Prime", monospace;
+  font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-size: x-large;
   color:#f2b84b;
@@ -317,7 +316,7 @@ a:hover {
   text-align: justify;
   line-height: 1.6;
   width: 100%;
-  font-family: "Courier Prime", monospace;
+  font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-size: large;
   color: #6b4928;
@@ -342,7 +341,7 @@ a:hover {
   text-shadow: 2px 2px 2px rgb(46, 46, 46);
   line-height: 1.5;
   text-align: left;
-  font-family: "Courier Prime", monospace;
+  font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-size: large;
   color: #fff;
@@ -397,7 +396,7 @@ a:hover {
 
 .familia p {
     margin: 5px 0 20px;
-    font-family: "Courier Prime", monospace;
+    font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
     font-size: large;
     color: #422918; 
@@ -527,7 +526,7 @@ a:hover {
   text-align: justify;
   line-height: 1.6;
   width: 100%;
-  font-family: "Courier Prime", monospace;
+  font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-size: small;
   color: #6b4928;
@@ -537,7 +536,7 @@ a:hover {
   text-shadow: 2px 2px 2px rgb(46, 46, 46);
   line-height: 1.5;
   text-align: left;
-  font-family: "Courier Prime", monospace;
+  font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-size: small;
   color: #fff;
