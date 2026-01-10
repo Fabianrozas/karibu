@@ -478,13 +478,13 @@ a:hover {
     margin-top: 10px;
   }
 
-  /* HERO */
+  /* HERO 
   .hero {
     height: 500px;
     padding: 80px 20px 60px;
     text-align: left;
   }
-
+*/
   .hero h1 {
     font-size: 30px;
     line-height: 1.2;
@@ -570,17 +570,18 @@ a:hover {
 }
 
 .novia {
-  width: 90%;
-  max-width: 1200px;
-  padding: 18px;
-  margin: auto;
-  text-align: right;
-  height: 500px;
-  background-image: url(img/novia-karibu-2.jpg);
-  background-size: cover;
-  background-position: right;
-  border-radius: 10px;
-  align-content: flex-end;
+    /* width: 90%; */
+    /* max-width: 1200px; */
+    /* height: 400px; */
+    /* padding: 18px; */
+    /* margin: auto; */
+    text-align: center;
+    height: 345px;
+    background-image: url(img/novia-karibu-2.jpg);
+    /* background-size: cover; */
+    /* background-position: center; */
+    border-radius: 10px;
+    /* align-content: flex-end; */
 }
 
   /* FOOTER */
