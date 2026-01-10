@@ -44,7 +44,7 @@ body {
 .container-familia {
   width: 90%;
   max-width: 1200px;
-  margin: 15px 0;
+  margin: 15px 5px 0 5px;
 }
 
 /* HEADER */
@@ -75,7 +75,7 @@ body {
 }
 
 .logo {
-    margin: 0px 55px;
+margin: 0px 55px;
     height: 85px;
     display: flex;
     justify-content: center;
@@ -437,12 +437,6 @@ a:hover {
     width: 100%;
     padding: 0 20px;
   }
-
-.logo {
-  margin: 0px 55px;
-  height: 85px;
-  display: flex;
-  justify-content: center;
   
 .hero-banner {
   /* height: 60vh; */
@@ -465,25 +459,14 @@ a:hover {
 }
 
   /* HEADER */
-  header {
+.header {
     position: relative;
     background-image: url(img/textura-cafe.jpg);
-    background-size: auto;
-    background-position: center;
-    padding: 15px 0;
-    font-size: large;
-  }
-
-.nav {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}  
-
-  /* header .logo {
-    margin-bottom: 12px;
-  } */
+    /* background-size: auto; */
+    /* background-position: center; */
+    /* padding: 15px 0; */
+    /* font-size: large; */
+}
 
   header nav {
     flex-direction: column;
@@ -494,13 +477,13 @@ a:hover {
     margin-top: 10px;
   }
 
-  /* HERO */
+  /* HERO 
   .hero {
     height: 500px;
     padding: 80px 20px 60px;
     text-align: left;
   }
-
+*/
   .hero h1 {
     font-size: 30px;
     line-height: 1.2;
