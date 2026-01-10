@@ -475,6 +475,12 @@ a:hover {
     /* font-size: large; */
   }
 
+.nav {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}  
+
   header .logo {
     margin-bottom: 12px;
   }
