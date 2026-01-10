@@ -468,10 +468,10 @@ a:hover {
   header {
     position: relative;
     background-image: url(img/textura-cafe.jpg);
-    /* background-size: auto; */
-    /* background-position: center; */
-    /* padding: 15px 0; */
-    /* font-size: large; */
+    background-size: auto;
+    background-position: center;
+    padding: 15px 0;
+    font-size: large;
   }
 
 .nav {
